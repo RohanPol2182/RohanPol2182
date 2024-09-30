@@ -1,6 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Pol.
+==================================================================================================================================
 
 Analysing and Converting data into insights? You are at the right place!!
+-------------------------------------------------------------------------
+
+I'm passionate about turning data into stories. For over 8 months, I've been diving deep into research and data analytics, transforming numbers into insights that drive decisions. I love using tools like SQL and Python to uncover hidden patterns and create visualizations that bring data to life. Whether it's conducting in-depth research or leading collaborative projects, I'm always eager to learn and grow. I'm always happy to share my insights.
+
+* 🌍  I'm based in Bangalore.
+* ✉️  You can contact me at [rohanpolwork@gmail.com](mailto:rohanpolwork@gmail.com)
+* 🧠  I'm learning The principles of Data Science and Statistics, focusing more on predictive analytics.
 <!--
 **RohanPol2182/RohanPol2182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
